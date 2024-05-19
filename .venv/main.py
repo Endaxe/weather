@@ -3,7 +3,7 @@ import requests
 import pygame as pg
 from random import randrange
 import random
-
+city = "umeå"
 
 
 def get_weather(city, api_key):
@@ -63,7 +63,7 @@ def runGame(description, temperature):
     blue = (0,0,128)
     pg.font.init()
     font = pg.font.SysFont('Comic Sans MS', 25, False, False) #font style + size
-    text = font.render(description + """: In umeå     temp(C):""" + str(temperature), True, green, blue) #description + temp output
+    text = font.render(description + ": In " + city + "    //  temp(C):" + str(temperature), True, green, blue) #description + temp output
     textRect = text.get_rect() #Text box
     textRect.center = (400, 200) #text position
 
@@ -116,7 +116,7 @@ def main():
     api_key = "c6e5dc5cc0a5f052753064e213ec18db"
   # Replace this with your actual API key
 
-    description, temperature = get_weather("umeå", api_key)
+    description, temperature = get_weather(city, api_key)
     runGame(description, temperature)
 
 

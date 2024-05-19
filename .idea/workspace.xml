@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a631dd-0376-4f78-9350-405c43d2bd38" name="Changes" comment="main.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c9a631dd-0376-4f78-9350-405c43d2bd38" name="Changes" comment="Weather function combined with game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,11 +74,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1715601085968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Weather function combined with game">
+      <option name="closed" value="true" />
+      <created>1716140996975</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1716140996975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.py" />
+    <MESSAGE value="Weather function combined with game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weather function combined with game" />
   </component>
 </project>
