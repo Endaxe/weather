@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a631dd-0376-4f78-9350-405c43d2bd38" name="Changes" comment="Weather function combined with game" />
+    <list default="true" id="c9a631dd-0376-4f78-9350-405c43d2bd38" name="Changes" comment="city updt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,12 +81,20 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1716140996975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="city updt">
+      <option name="closed" value="true" />
+      <created>1716141270029</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1716141270029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.py" />
     <MESSAGE value="Weather function combined with game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weather function combined with game" />
+    <MESSAGE value="city updt" />
+    <option name="LAST_COMMIT_MESSAGE" value="city updt" />
   </component>
 </project>

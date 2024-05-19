@@ -38,9 +38,6 @@ class powerApple(food): #arv
         segments = [snake.copy()*2]
 
 def runGame(description, temperature):
-    print(description)
-    print(temperature)
-
 
     WINDOW = 1000 #window size
     TILE_SIZE = 40 #Tile sizes on the screen
